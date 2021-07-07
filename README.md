@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2> Hi there 👋 ! I'm Ashwin.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -45,22 +43,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ashwin-menon-b698801a1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ashwin-menon-b698801a1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashwin%20Menon-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ash_mn_07/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ashwin.menon202@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:ashwin.menon202@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashwin.menon202@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<!--
-**Ashmn07/Ashmn07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
