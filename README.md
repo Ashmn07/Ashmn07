@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science and Engineering at College of Engineering,Guindy,Anna University.
-- 💼 &nbsp; Interned as an App Developer at InfoTix Technosoluutions Private Limited.
 - 🌱 &nbsp; Learning more about React, NextJS and React Native.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
