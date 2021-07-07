@@ -44,7 +44,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ashwin-menon-b698801a1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashwin%20Menon-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ash_mn_07/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/ash_mn_07/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ash_mn_07-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ashwin.menon202@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashwin.menon202@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
